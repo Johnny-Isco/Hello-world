@@ -7,6 +7,8 @@ public class FactorialEx {
 
 		System.out.println(fx.factorial(3));
 		System.out.println(fx.factorialFor(3));
+		System.out.println(fx.factorial(7));
+		System.out.println(fx.factorialFor(7));
 	}
 	
 	public int factorial(int n) {
